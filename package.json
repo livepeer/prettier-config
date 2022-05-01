@@ -1,6 +1,6 @@
 {
   "name": "@livepeer/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Livepeer Prettier config",
   "main": "index.json",
   "repository": "git@github.com:livepeer/prettier-config.git",
